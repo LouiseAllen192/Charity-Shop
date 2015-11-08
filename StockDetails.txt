@@ -1,28 +1,31 @@
-0001,JumperBlue,12.90,20,Jumper. Colour:blue. Size:One Size fits all
-0002,JumperGreen,12.90,30,Colour:green. One Size fits all
-0003,JumperRed,12.90,25,Colour: red. One Size fits all
-0004,ToolBox,15.00,40,Black tool-box. Contents: hammer, screws, nails, screw-driver
-0005,LampShade,10.40,8,Patterned sun-flower lamp-shade
-0006,DressingGown,7.80,40,Cozy,wooly dressing gown.
-0007,AntiqueDresser,40.00,2,Wooden antique dresser: Oak 
-0008,ChinaDoll,18.90,5,Collectable china doll. Pink dress.
-0009,CushionsRed,5.00,20,Velvet cushions. Colour:Red
-0010,CushionsPurple,5.00,25,Velvet cushions. Colour:Purple
-0011,CushionsPink,5.00,15,Velvet cushions. Colour:Pink
-0012,CameraBag,20.00,16,Navy camera bag with adjustable strap
-0013,BathroomMirror,9.50,12,Gold rimmed bathroom mirror. Size 12x14cm
-0014,DogOrnament,3.00,50,Glass dog ornament
-0015,CatOrnament,3.00,30,Glass cat ornament
-0016,MouseOrnament,3.00,58,Glass mouse ornament
-0017,ElephantOrnament,3.00,10,Glass elephant ornament
-0018,BoardGameRisk,25.00,12,Board game - Risk
-0019,BoardGameMonopoly,25.00,19,Board game - Monopoly
-0020,BoardGameCluedo,25.00,6,Board game - Cluedo
-0021,GameJenga,25.00,2,Board game - Jenga
-0022,KitchenBin,12.30,17,Kitchen bin. 30litre capacity
-0023,KitchenJug,4.90,7,Kitchen juice jug
-0024,PizzaCutter,3.80,12,Kitchen pizza cutter knife with black handle
-0025,LawnMower,95.60,5,Green Alko Lawn-mower
-0026,Generator,120.20,2,Backup diesel powered generator
-0027,BBQ,180.60,4, Black SmokeHouse coal Barbeque grill
-
+1,JumperBlue,12.90,20,Jumper. Colour:blue. Size:One Size fits all,s,
+2,JumperGreen,12.90,96,Colour:green. One Size fits all,s,
+3,JumperRed,12.90,55,Colour: red. One Size fits all,s,
+4,ToolBox,15.00,30,Black tool-box. Contents: hammer screws nails screw-driver,s,
+5,LampShade,10.40,0,Patterned sun-flower lamp-shade,s,
+6,DressingGown,7.80,36,Cozy wooly dressing gown,s,
+7,AntiqueDresser,40.00,69,Wooden antique dresser: Oak,s,
+8,ChinaDoll,18.90,60,Collectable china doll. Pink dress,s,
+9,CushionsRed,5.00,18,Velvet cushions. Colour:Red,s,
+10,CushionsPurple,5.00,25,Velvet cushions. Colour:Purple,s
+11,CushionsPink,5.00,15,Velvet cushions. Colour:Pink,s
+12,CameraBag,20.00,16,Navy camera bag with adjustable strap,s
+13,BathroomMirror,9.50,12,Gold rimmed bathroom mirror. Size 12x14cm,s
+14,DogOrnament,3.00,50,Glass dog ornament,s
+15,CatOrnament,3.00,26,Glass cat ornament,s,
+16,MouseOrnament,3.00,53,Glass mouse ornament,s,
+17,ElephantOrnament,3.00,18,Glass elephant ornament,s,
+18,BoardGameRisk,25.00,10,Board game - Risk,s,
+19,BoardGameMonopoly,25.00,19,Board game - Monopoly,s,
+20,BoardGameCluedo,25.00,16,Board game - Cluedo,s
+21,GameJenga,25.00,42,Board game - Jenga,s
+22,KitchenBin,12.30,15,Kitchen bin. 30litre capacity,s,
+23,KitchenJug,4.90,17,Kitchen juice jug,s
+24,PizzaCutter,3.80,18,Kitchen pizza cutter knife with black handle,s,
+25,LawnMower,30.00,15,Green Alko Lawn-mower,h
+26,Generator,50.00,8,Backup diesel powered generator,h,
+27,BBQ,40.00,81, Black SmokeHouse coal Barbeque grill,h,
+28,PowerHose,20.50,9,Strong power-hose,h,
+29,CatStatue,12.80,18,Majestic cat statue. 10ft tall,s
+30,MiniFridge,20.00,60,8x10 fridge. Grey. Nice & cold,h
+31,SnowGlobe,15.25,15,Glass globe. Fake snow inside. Shake for results,s
